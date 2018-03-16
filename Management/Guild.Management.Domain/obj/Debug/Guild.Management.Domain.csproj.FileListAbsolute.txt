@@ -1,8 +1,0 @@
-C:\Projects\Guild Application\Management\Guild.Management.Domain\bin\Debug\Guild.Management.Domain.dll
-C:\Projects\Guild Application\Management\Guild.Management.Domain\bin\Debug\Guild.Management.Domain.pdb
-C:\Projects\Guild Application\Management\Guild.Management.Domain\bin\Debug\Dapper.dll
-C:\Projects\Guild Application\Management\Guild.Management.Domain\bin\Debug\Dapper.xml
-C:\Projects\Guild Application\Management\Guild.Management.Domain\obj\Debug\Guild.Management.Domain.csprojResolveAssemblyReference.cache
-C:\Projects\Guild Application\Management\Guild.Management.Domain\obj\Debug\Guild.Management.Domain.csproj.CoreCompileInputs.cache
-C:\Projects\Guild Application\Management\Guild.Management.Domain\obj\Debug\Guild.Management.Domain.dll
-C:\Projects\Guild Application\Management\Guild.Management.Domain\obj\Debug\Guild.Management.Domain.pdb

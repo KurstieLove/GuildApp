@@ -1,5 +1,0 @@
-C:\Projects\Guild Application\Management\Guild.Management.Database\bin\Debug\Guild.Management.Database.dacpac
-C:\Projects\Guild Application\Management\Guild.Management.Database\bin\Debug\Guild.Management.Database.dll
-C:\Projects\Guild Application\Management\Guild.Management.Database\bin\Debug\Guild.Management.Database.pdb
-C:\Projects\Guild Application\Management\Guild.Management.Database\obj\Debug\Guild.Management.Database.dll
-C:\Projects\Guild Application\Management\Guild.Management.Database\obj\Debug\Guild.Management.Database.pdb
